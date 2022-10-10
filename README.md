@@ -11,3 +11,5 @@ The main change is located in mmdet/models/dense_heads/rpn_head_nwd.py.
 The dataset AcneSCU could be accessed on：
 url:https://pan.baidu.com/s/15Zw0OJQDfp4y_0r3A6LoNA 
 password：e0va 
+
+Please note AcneSCU can only be used for non-commercial use. Commercial use is prohibited without the authors' permission.
