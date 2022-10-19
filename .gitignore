@@ -128,7 +128,6 @@ resources
 tests
 checkpoints
 demo
-configs
 
 dockers
 docs*
