@@ -10,11 +10,7 @@ The main change is located in mmdet/models/dense_heads/rpn_head_nwd.py.
 ```
 
 ## Dataset
-The dataset AcneSCU could be accessed on：  
-```
-https://pan.baidu.com/s/1dgu2KOEcfwjTYoWalxdIHA
-```
-(Verification code: afia)
+The dataset AcneSCU could be accessed via connection to jiangxian@scu.edu.cn 
 
 Please note that AcneSCU can only be used for non-commercial use. Commercial use is prohibited without the authors' permission.
 
